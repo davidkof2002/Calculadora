@@ -1,0 +1,4 @@
+n1: int = int(input('Qual o numero?'))
+n2 = int(input('Qual o proximo numero?'))
+s = (n1+n2)
+print('A soma entre {} e {} = {}'.format(n1,n2,s))
